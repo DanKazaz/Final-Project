@@ -1,7 +1,8 @@
 https://www.kaggle.com/datasets/habbas11/dms-driver-monitoring-system
-מכאן יש להוריד את הדאטה לאימון מודל היולו.
-שלבים להורדת הדאטה וחיבורו למחברת הקולאב:
-יש להיכנס לקישור ולהוריד את הדאטה.
-בגוגל דרייב, בתוך MyDrive יש ליצור תיקייה בשם Datasets.
-בתוך התיקייה יש ליצור תיקייה נוספת בשם DMS.
-יש להעלות את הדאטה לתיקייה זו
+
+Steps to download the data and connect it to the Colab notebook:
+
+Enter the provided link and download the data.
+In Google Drive, inside "My Drive", create a folder named "Datasets".
+Inside the "Datasets" folder, create another folder named "DMS".
+Upload the data to this "DMS" folder.
