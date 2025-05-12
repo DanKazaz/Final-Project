@@ -1,8 +1,0 @@
-https://www.kaggle.com/datasets/habbas11/dms-driver-monitoring-system
-
-Steps to download the data and connect it to the Colab notebook:
-
-Enter the provided link and download the data.
-In Google Drive, inside "My Drive", create a folder named "Datasets".
-Inside the "Datasets" folder, create another folder named "DMS".
-Upload the data to this "DMS" folder.
