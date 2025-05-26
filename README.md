@@ -10,7 +10,7 @@
 1. הרצת מחברת YoloV8 Model For Project בקישור https://colab.research.google.com/drive/1-QW7QeKsd_fQxVfQKilxieh1rzrDzDm3?usp=sharing
 2. הרצת מחברת Video To Prediction - Data בקישור https://colab.research.google.com/drive/1Yu54YdlyXb8kyIMNo3Gi_XGgu9sXXMJ7?usp=sharing (לא חייב להריץ את מחברת זו!)
 3. הרצת מחברת Video To Prediction - Model בקישור https://colab.research.google.com/drive/1zs9uRQux-uI_KpN_FulPV70pZU05Vc9r?usp=sharing
-4. הורדת הקבצים מתיקיית app והרצתם ב visual studio code
+4. הורדת הקבצים מתיקיית app, העלאתם ל visual studio code והרצה.
 
 הכל פועל באופן אוטומטי. 
 
