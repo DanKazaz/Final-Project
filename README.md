@@ -22,6 +22,7 @@ pip install numpy==1.26.3
 pip install tensorflow==2.16.1
 
 pip install ultralytics==8.3.120
+
 6. להריץ את app.py.
 
 הכל פועל באופן אוטומטי. 
