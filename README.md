@@ -13,9 +13,13 @@
 4. הורדת הקבצים מתיקיית app, העלאתם ל visual studio code והרצה.
 
 pip install Flask==3.1.0
+
 pip install opencv-python==4.10.0.82
+
 pip install numpy==1.26.3
+
 pip install tensorflow==2.16.1
+
 pip install ultralytics==8.3.120
 
 הכל פועל באופן אוטומטי. 
