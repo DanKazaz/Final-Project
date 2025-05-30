@@ -12,6 +12,12 @@
 3. הרצת מחברת Video To Prediction - Model בקישור https://colab.research.google.com/drive/1zs9uRQux-uI_KpN_FulPV70pZU05Vc9r?usp=sharing
 4. הורדת הקבצים מתיקיית app, העלאתם ל visual studio code והרצה.
 
+pip install Flask==3.1.0
+pip install opencv-python==4.10.0.82
+pip install numpy==1.26.3
+pip install tensorflow==2.16.1
+pip install ultralytics==8.3.120
+
 הכל פועל באופן אוטומטי. 
 
 *הערה חשובה* - בהרצת המחברת השנייה (Video To Prediction - Data) יורדו למחשב קבצים - אלו ישמשו לאימון מודל LSTM. זוהי מחברת ליצירת דאטה לכן *לא חייב* להריץ אותה. כבר חיברתי את הקבצים למחברת אימון המודל לכן אין צורך להריץ את המחברת השנייה ולהוריד שוב את הקבצים.
