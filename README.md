@@ -10,7 +10,8 @@
 1. הרצת מחברת YoloV8 Model For Project בקישור https://colab.research.google.com/drive/1-QW7QeKsd_fQxVfQKilxieh1rzrDzDm3?usp=sharing
 2. הרצת מחברת Video To Prediction - Data בקישור https://colab.research.google.com/drive/1Yu54YdlyXb8kyIMNo3Gi_XGgu9sXXMJ7?usp=sharing (לא חייב להריץ את מחברת זו!)
 3. הרצת מחברת Video To Prediction - Model בקישור https://colab.research.google.com/drive/1zs9uRQux-uI_KpN_FulPV70pZU05Vc9r?usp=sharing
-4. הורדת הקבצים מתיקיית app, העלאתם ל visual studio code והרצה.
+4. הורדת הקבצים מתיקיית app, העלאתם ל visual studio code.
+5. בטרמינל, יש להריץ את ההתקנות הבאות:
 
 pip install Flask==3.1.0
 
@@ -21,7 +22,7 @@ pip install numpy==1.26.3
 pip install tensorflow==2.16.1
 
 pip install ultralytics==8.3.120
-
+6. להריץ את app.py.
 הכל פועל באופן אוטומטי. 
 
 *הערה חשובה* - בהרצת המחברת השנייה (Video To Prediction - Data) יורדו למחשב קבצים - אלו ישמשו לאימון מודל LSTM. זוהי מחברת ליצירת דאטה לכן *לא חייב* להריץ אותה. כבר חיברתי את הקבצים למחברת אימון המודל לכן אין צורך להריץ את המחברת השנייה ולהוריד שוב את הקבצים.
